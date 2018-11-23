@@ -18,12 +18,12 @@ h1{
 	font-style: italic;
 	font-size: 20px
 }
-.column {
-	text-align: center;
-    width: 350px;
-    float: left;
+.body{
+	border: 2px;
+  padding: 6px;
+  margin: 20px;
   }
-.sidebar {
+.sidebar{
   width: 35%;
   height: max;
   line-height: 40px;
@@ -35,4 +35,21 @@ h1{
 h2{
 	background-color: black;
 	color: pink;
+	font-size: 25px;
+	line-height: 30px;
+}
+.important{
+	font-style: bolder;
+	font-style: italic;
+	font-size: 25px;
+}
+.body p{
+	font-size: 20px;
+	line-height: 30px;
+}
+@media screen and (max-width: 750px) {
+    body {
+        background-color: black;
+        color: white;
+    }
 }
