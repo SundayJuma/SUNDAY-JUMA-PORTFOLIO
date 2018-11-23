@@ -20,8 +20,8 @@ h1{
 }
 .body{
 	border: 2px;
-  padding: 6px;
-  margin: 20px;
+  padding: 5px;
+  margin: 10px;
   }
 .sidebar{
   width: 35%;
@@ -37,6 +37,9 @@ h2{
 	color: pink;
 	font-size: 25px;
 	line-height: 30px;
+}
+h4{
+	font-size: 20px;
 }
 .important{
 	font-style: bolder;
