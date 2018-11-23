@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
 	<title>SUNDAY JUMA PORTFOLIO</title>
 	<h1>SUNDAY JUMA PORTFOLIO</h1>
@@ -9,9 +7,9 @@
  	<h3>Project Description</h3>
  		<p>This project is my programming protfolio. It will highlight my skills, interest and experience and also include some of my active projects on Github</p>
  	<h3>Setup Instructions</h3>
- 		<p></p>
+ 		<p>There is no setup required to view this portfolio</p>
  		<a href="https://sundayjuma.github.io/Sunday-Juma-Portfolio/">Here is a <em>LINK to my PORTFOLIO</em></a>
- 	<h3>Copyright and LIcense Information</h3>
+ 	<h3>Copyright and License Information</h3>
  		<h6>Copyright (c) [2018] [Sunday Juma]</h6>
 
 <p>Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -32,7 +30,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.</p>
  </body>
-</html>
 
 Program setup instructions
 
