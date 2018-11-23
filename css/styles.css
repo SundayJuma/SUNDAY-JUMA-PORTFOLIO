@@ -1,7 +1,7 @@
 img{
  	width: 7cm;
  	height: 9cm;
- 	float: right;
+ 	align-items: center;
 
 }
 body{
@@ -24,9 +24,13 @@ h1{
     float: left;
   }
 .sidebar {
-  width: 30%;
-  float: left;
-  background-color: yellow;
+  width: 35%;
+  height: max;
+  line-height: 40px;
+  float: right;
+  background-color: black;
+  color: pink;
+  font-size: 25px;
 }
 h2{
 	background-color: black;
