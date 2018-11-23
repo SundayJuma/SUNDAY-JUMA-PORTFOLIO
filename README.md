@@ -7,7 +7,7 @@
  		<p>This project is my programming protfolio. It will highlight my skills, interest and experience and also include some of my active projects on Github</p>
  	<h3>Setup Instructions</h3>
  		<p>There is no setup required to view this portfolio</p>
- 		<a href="https://sundayjuma.github.io/Sunday-Juma-Portfolio/">Here is a <em>LINK to my PORTFOLIO</em></a>
+ 		<a href="https://sundayjuma.github.io/Sunday-Juma-Portfolio/"><em><strong>LINK to my PORTFOLIO</strong></em></a>
  	<h3>Copyright and License Information</h3>
  		<h6>Copyright (c) [2018] [Sunday Juma]</h6>
 
