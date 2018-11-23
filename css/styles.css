@@ -2,4 +2,12 @@
  	width: 7cm;
  	height: 9cm;
 }
-h1 
+body{
+	background-color: pink;
+	color: black;
+}
+h1{
+	text-align: center;
+	background-color: black;
+	color: pink;
+}
