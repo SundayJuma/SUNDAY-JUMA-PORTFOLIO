@@ -3,11 +3,11 @@
  <h3>Project Description</h3>
  		This project is my programming protfolio. It will highlight my skills, interest and experience and also include some of my active projects on Github
  	<h3>Technologies Used</h3>
- 		HTML
- 		CSS
- 		Git
+ 		<li>HTML</li>
+ 		<li>CSS</li>
+ 		<li>Git</li>
  	<h3>Setup Instructions</h3>
- 		There is no setup required to view this portfolio
+ 		<p>There is no setup required to view this portfolio</p>
  		<a href="https://sundayjuma.github.io/Sunday-Juma-Portfolio/"><em><strong>LINK to my PORTFOLIO</strong></em></a>
  	<h3>Copyright and License Information</h3>
  		<h5>Copyright (c) [2018] [Sunday Juma]</h5>
