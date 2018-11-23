@@ -28,8 +28,8 @@ h1{
   height: max;
   line-height: 40px;
   float: right;
-  background-color: black;
-  color: pink;
+  background-color: pink;
+  color: black;
   font-size: 25px;
 }
 h2{
