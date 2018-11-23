@@ -1,4 +1,4 @@
- img{
+img{
  	width: 7cm;
  	height: 9cm;
  	float: right;
@@ -17,5 +17,18 @@ h1{
 	line-height: 30px
 	font-style: italic;
 	font-size: 20px
-	
+}
+.column {
+	text-align: center;
+    width: 350px;
+    float: left;
+  }
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: yellow;
+}
+h2{
+	background-color: black;
+	color: pink;
 }
