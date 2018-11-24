@@ -18,8 +18,8 @@ h1{
 	font-style: italic;
 	font-size: 20px
 }
-.body{
-	border: 2px;
+.html{
+	border: 2px solid gold;
   padding: 5px;
   margin: 10px;
   }
