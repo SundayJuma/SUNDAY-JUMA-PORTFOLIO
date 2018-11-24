@@ -20,7 +20,7 @@ h1{
 }
 .html{
 	border: 8px solid gold;
-  padding: 5px solid black;
+  padding: 5px;
   margin: 5px;
   }
 .sidebar{
@@ -50,7 +50,7 @@ h4{
 	font-size: 20px;
 	line-height: 30px;
 }
-.body ol{
+.body ul{
 	font-size: 20px;
 }
 @media screen and (max-width: 750px) {
