@@ -50,6 +50,9 @@ h4{
 	font-size: 20px;
 	line-height: 30px;
 }
+.body ol{
+	font-size: 20px;
+}
 @media screen and (max-width: 750px) {
     body {
         background-color: black;
