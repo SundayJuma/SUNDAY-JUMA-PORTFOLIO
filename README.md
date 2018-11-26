@@ -8,7 +8,7 @@
  		<li>Git</li>
  	<h3>Setup Instructions</h3>
  		<p>There is no setup required to view this portfolio</p>
- 		<a href="https://sundayjuma.github.io/Sunday-Juma-Portfolio/"><em><strong>LINK to my PORTFOLIO</strong></em></a>
+ 		<a href="https://sundayjuma.github.io/SUNDAY-JUMA-PORTFOLIO/"><em><strong>LINK to my PORTFOLIO</strong></em></a>
  	<h3>Copyright and License Information</h3>
  		<h5>Copyright (c) [2018] [Sunday Juma]</h5>
 Permission is hereby granted, free of charge, to any person obtaining a copy
